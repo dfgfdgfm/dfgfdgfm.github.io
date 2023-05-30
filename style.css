@@ -31,10 +31,20 @@ body {
 }
 .img {
     width: 150px;
+    
 }
 .item {
     
     text-align: center;
+    
+    
+}
+.txt {
+    color: #808080;
+    margin-left: auto;
+    margin-right: auto;
+    line-height: 1em;
+    max-width: 150px;
     
 }
 .Naz {
